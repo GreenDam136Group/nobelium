@@ -2,8 +2,8 @@ const BLOG = {
   title: '格林达姆136工程团',
   author: 'Greendam136',
   email: '136@sunnyrx.com',
-  link: 'https://nobelium.vercel.app',
-  description: '格林达姆136工程团官方网站',
+  link: 'https://greendam.moe',
+  description: 'GreenDam136 official website',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://twitter.com/sunnyrx',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
